@@ -10,4 +10,6 @@ public class CalculadoraApplication {
 		SpringApplication.run(CalculadoraApplication.class, args);
 	}
 
-}
+}git init
+git add .
+git commit -m "primeira versao do projeto"
